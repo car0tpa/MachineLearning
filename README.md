@@ -1,2 +1,2 @@
-# MachineLearing
-MachineLearing Partices in my alone travel.
+# MachineLearning
+MachineLearning Partices in my alone travel.
