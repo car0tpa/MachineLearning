@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="kdtree"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\examples\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="kdtree">
+				<Option output="E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/lib/libkdtree.dll" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 kdtree"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="kdtree/fast">
+				<Option output="E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/lib/libkdtree.dll" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 kdtree/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test2">
+				<Option output="E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/examples/test2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/examples"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/include"/>
+					<Add directory="E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/examples/../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/examples/Makefile&quot;  VERBOSE=1 test2"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/examples/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/examples/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test2/fast">
+				<Option output="E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/examples/test2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/examples"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/include"/>
+					<Add directory="E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/examples/../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/examples/Makefile&quot;  VERBOSE=1 test2/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/examples/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/examples/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test">
+				<Option output="E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/examples/test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/examples"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/include"/>
+					<Add directory="E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/examples/../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/examples/Makefile&quot;  VERBOSE=1 test"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/examples/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/examples/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test/fast">
+				<Option output="E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/examples/test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/examples"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/include"/>
+					<Add directory="E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/examples/../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/examples/Makefile&quot;  VERBOSE=1 test/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/examples/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/examples/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test3">
+				<Option output="E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/examples/test3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/examples"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/include"/>
+					<Add directory="E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/examples/../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/examples/Makefile&quot;  VERBOSE=1 test3"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/examples/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/examples/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test3/fast">
+				<Option output="E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/examples/test3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/examples"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/include"/>
+					<Add directory="E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/examples/../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/examples/Makefile&quot;  VERBOSE=1 test3/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/examples/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/examples/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/cmake-build-debug/examples/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/examples/test.c">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/examples/test2.c">
+			<Option target="test2"/>
+		</Unit>
+		<Unit filename="E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/examples/test3.c">
+			<Option target="test3"/>
+		</Unit>
+		<Unit filename="E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/src/kdtree.cpp">
+			<Option target="kdtree"/>
+		</Unit>
+		<Unit filename="E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="E:/workspace/MachineLearning/Algorithm/KNN/kdtree by c &amp; cpp/kdtree by cpp/kdtree-master/examples/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\examples\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
