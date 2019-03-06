@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41cb00c9-13f7-4c5d-9a73-80f3f57cd21c" name="Default" comment="add Day3_Multiple_Linear_Regression.py">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MLPractice/100-Days-Of-ML-Code/Day23_25_Decision_Trees/Day23_25_Decision_Trees.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MLPractice/100-Days-Of-ML-Code/Day23_25_Decision_Trees/Social_Network_Ads.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MLPractice/Deep Learning Based on Python/Deep Learning Based on Python Code/ch04/two_layer_net.py" afterPath="$PROJECT_DIR$/MLPractice/Deep Learning Based on Python/Deep Learning Based on Python Code/ch04/two_layer_net.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MLPractice/Deep Learning Based on Python/Deep Learning Based on Python Code/dataset/mnist.py" afterPath="$PROJECT_DIR$/MLPractice/Deep Learning Based on Python/Deep Learning Based on Python Code/dataset/mnist.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,37 +14,34 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="hungry.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MLPractice/深度学习入门：基于Python的理论与实现/【源代码】深度学习入门：基于Python的理论与实现/ch01/hungry.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="mnist.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MLPractice/Deep Learning Based on Python/Deep Learning Based on Python Code/dataset/mnist.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Day23_25_Decision_Trees.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MLPractice/100-Days-Of-ML-Code/Day23_25_Decision_Trees/Day23_25_Decision_Trees.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="577">
-              <caret line="68" column="10" lean-forward="true" selection-start-line="68" selection-start-column="10" selection-end-line="68" selection-end-column="10" />
+            <state relative-caret-position="391">
+              <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
               <folding>
-                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#118#132#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Social_Network_Ads.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MLPractice/100-Days-Of-ML-Code/Day23_25_Decision_Trees/Social_Network_Ads.csv">
-          <provider editor-type-id="csv-table-editor">
-            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-          </provider>
-          <provider selected="true" editor-type-id="csv-text-editor">
+      <file leaf-file-name="train_neuralnet.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MLPractice/Deep Learning Based on Python/Deep Learning Based on Python Code/ch04/train_neuralnet.py">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="two_layer_net.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MLPractice/Deep Learning Based on Python/Deep Learning Based on Python Code/ch04/two_layer_net.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -86,6 +83,11 @@
         <option value="$PROJECT_DIR$/MLPractice/100-Days-Of-ML-Code/Day7_10_11_K_Nearest_Neighbours/Day_7_K_Nearest_Neighbours.py" />
         <option value="$PROJECT_DIR$/MLPractice/100-Days-Of-ML-Code/Day9_10_12_13_14_Support_Vector_Machines/Day9_10_12_13_14_Support_Vector_Machines.py" />
         <option value="$PROJECT_DIR$/MLPractice/100-Days-Of-ML-Code/Day23_25_Decision_Trees/Day23_25_Decision_Trees.py" />
+        <option value="$PROJECT_DIR$/MLPractice/100-Days-Of-ML-Code/Day33_34_Random_Forests/Day33_34_Random_Forests.py" />
+        <option value="$PROJECT_DIR$/MLPractice/深度学习入门：基于Python的理论与实现/【源代码】深度学习入门：基于Python的理论与实现/ch03/mnist_show.py" />
+        <option value="$PROJECT_DIR$/MLPractice/Deep Learning Based on Python/Deep Learning Based on Python Code/dataset/mnist.py" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/MLPractice/Deep Learning Based on Python/Deep Learning Based on Python Code/ch04/two_layer_net.py" />
       </list>
     </option>
   </component>
@@ -136,14 +138,30 @@
               <item name="MachineLearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
               <item name="MLPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="100-Days-Of-ML-Code" type="462c0819:PsiDirectoryNode" />
+              <item name="Deep Learning Based on Python" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MachineLearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
               <item name="MLPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="100-Days-Of-ML-Code" type="462c0819:PsiDirectoryNode" />
-              <item name="Day9_10_12_13_14_16_Support_Vector_Machines" type="462c0819:PsiDirectoryNode" />
+              <item name="Deep Learning Based on Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Deep Learning Based on Python Code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MachineLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="MLPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="Deep Learning Based on Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Deep Learning Based on Python Code" type="462c0819:PsiDirectoryNode" />
+              <item name="ch04" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MachineLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="MLPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="Deep Learning Based on Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Deep Learning Based on Python Code" type="462c0819:PsiDirectoryNode" />
+              <item name="dataset" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -157,6 +175,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\workspace\MachineLearning\MLPractice\100-Days-Of-ML-Code\Day33_34_Random_Forests" />
       <recent name="E:\workspace\MachineLearning\MLPractice\100-Days-Of-ML-Code\Day23_25_Decision_Trees" />
       <recent name="E:\workspace\MachineLearning\MLPractice\100-Days-Of-ML-Code\Day9_10_12_13_14_Support_Vector_Machines" />
       <recent name="E:\workspace\MachineLearning\MLPractice\100-Days-Of-ML-Code\Day4_5_6_Logistic_Regression" />
@@ -178,7 +197,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Day23_25_Decision_Trees">
+  <component name="RunManager" selected="Python.mnist_show">
     <configuration name="Day23_25_Decision_Trees" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -196,19 +215,19 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Day2_Simple_Linear_Regression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Day33_34_Random_Forests" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MLPractice/100-Days-Of-ML-Code/Day2_Simple_Linear_Regression" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MLPractice/100-Days-Of-ML-Code/Day33_34_Random_Forests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="MachineLearning" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MLPractice/100-Days-Of-ML-Code/Day2_Simple_Linear_Regression/Day2_Simple_Linear_Regression.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MLPractice/100-Days-Of-ML-Code/Day33_34_Random_Forests/Day33_34_Random_Forests.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -247,37 +266,37 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="dualform" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="mnist_show" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/perceptron/dual form" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MLPractice/深度学习入门：基于Python的理论与实现/【源代码】深度学习入门：基于Python的理论与实现/ch03" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="MachineLearning" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/perceptron/dual form/dualform.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MLPractice/深度学习入门：基于Python的理论与实现/【源代码】深度学习入门：基于Python的理论与实现/ch03/mnist_show.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.dualform" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Day2_Simple_Linear_Regression" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Day_7_K_Nearest_Neighbours" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Day9_10_12_13_14_Support_Vector_Machines" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Day23_25_Decision_Trees" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Day_7_K_Nearest_Neighbours" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Day9_10_12_13_14_Support_Vector_Machines" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Day23_25_Decision_Trees" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Day33_34_Random_Forests" />
+      <item index="4" class="java.lang.String" itemvalue="Python.mnist_show" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Day23_25_Decision_Trees" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Day9_10_12_13_14_Support_Vector_Machines" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Day_7_K_Nearest_Neighbours" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Day2_Simple_Linear_Regression" />
-        <item index="4" class="java.lang.String" itemvalue="Python.dualform" />
+        <item index="0" class="java.lang.String" itemvalue="Python.mnist_show" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Day33_34_Random_Forests" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Day23_25_Decision_Trees" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Day9_10_12_13_14_Support_Vector_Machines" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Day_7_K_Nearest_Neighbours" />
       </list>
     </recent_temporary>
   </component>
@@ -320,29 +339,52 @@
       <option name="project" value="LOCAL" />
       <updated>1551364191382</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add Day33_34_Random_Forests">
+      <created>1551687293366</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1551687293366</updated>
+    </task>
+    <task id="LOCAL-00006" summary="modify the file name">
+      <created>1551788402079</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1551788402079</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2025641" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.51794875" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.4974359" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33700138" sideWeight="0.48205128" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20512821" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49243465" sideWeight="0.51282054" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33700138" sideWeight="0.48205128" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.49243465" sideWeight="0.4871795" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29986244" sideWeight="0.4923077" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -354,20 +396,15 @@
     <MESSAGE value="add Day3_Multiple_Linear_Regression.py" />
     <MESSAGE value="add Day4_5_6_Logistic_Regression" />
     <MESSAGE value="add Day4_5_6_Logistic_Regression.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Day4_5_6_Logistic_Regression.py" />
+    <MESSAGE value="add Day33_34_Random_Forests" />
+    <MESSAGE value="modify the file name" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify the file name" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MLPractice/100-Days-Of-ML-Code/Day4_5_6_8_Logistic_Regression/Day4_5_6_Logistic_Regression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MLPractice/100-Days-Of-ML-Code/Day2_Simple_Linear_Regression/Day2_Simple_Linear_Regression.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -383,13 +420,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MLPractice/100-Days-Of-ML-Code/Day2_Simple_Linear_Regression/studentscores.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
       <provider selected="true" editor-type-id="csv-text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithm/KNN/kdtreecreate.py" />
@@ -526,13 +563,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MLPractice/100-Days-Of-ML-Code/Day2_Simple_Linear_Regression/studentscores.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
       <provider selected="true" editor-type-id="csv-text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -558,13 +595,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MLPractice/100-Days-Of-ML-Code/Day3_Multiple_Linear_Regression/50_Startups.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
       <provider selected="true" editor-type-id="csv-text-editor">
         <state relative-caret-position="-204">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MLPractice/100-Days-Of-ML-Code/Day3_Multiple_Linear_Regression/Day3_Multiple_Linear_Regression_chinese.png">
@@ -580,13 +617,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MLPractice/100-Days-Of-ML-Code/Day4_5_6_8_Logistic_Regression/Social_Network_Ads.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
       <provider selected="true" editor-type-id="csv-text-editor">
         <state relative-caret-position="-102">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MLPractice/100-Days-Of-ML-Code/Day4_5_6_8_Logistic_Regression/Day4_5_6_Logistic_Regression.py">
@@ -610,32 +647,92 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MLPractice/100-Days-Of-ML-Code/Day9_10_12_13_14_Support_Vector_Machines/Social_Network_Ads.csv" />
     <entry file="file://$PROJECT_DIR$/MLPractice/100-Days-Of-ML-Code/Day9_10_12_13_14_Support_Vector_Machines/Day9_10_12_13_14_Support_Vector_Machines.py" />
+    <entry file="file://$PROJECT_DIR$/MLPractice/100-Days-Of-ML-Code/Day23_25_Decision_Trees/Social_Network_Ads.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MLPractice/100-Days-Of-ML-Code/Day33_34_Random_Forests/Social_Network_Ads.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MLPractice/深度学习入门：基于Python的理论与实现/【源代码】深度学习入门：基于Python的理论与实现/ch01/hungry.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MLPractice/100-Days-Of-ML-Code/Day33_34_Random_Forests/Day33_34_Random_Forests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MLPractice/100-Days-Of-ML-Code/Day23_25_Decision_Trees/Day23_25_Decision_Trees.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MLPractice/深度学习入门：基于Python的理论与实现/【源代码】深度学习入门：基于Python的理论与实现/ch03/mnist_show.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MLPractice/100-Days-Of-ML-Code/Day23_25_Decision_Trees/Social_Network_Ads.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="17" column="40" lean-forward="true" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+          <folding />
+        </state>
       </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MLPractice/Deep Learning Based on Python/Deep Learning Based on Python Code/dataset/mnist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+          <folding>
+            <element signature="e#118#132#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MLPractice/Deep Learning Based on Python/Deep Learning Based on Python Code/ch04/train_neuralnet.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MLPractice/100-Days-Of-ML-Code/Day23_25_Decision_Trees/Day23_25_Decision_Trees.py">
+    <entry file="file://$PROJECT_DIR$/MLPractice/Deep Learning Based on Python/Deep Learning Based on Python Code/ch04/two_layer_net.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="577">
-          <caret line="68" column="10" lean-forward="true" selection-start-line="68" selection-start-column="10" selection-end-line="68" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
