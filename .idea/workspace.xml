@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41cb00c9-13f7-4c5d-9a73-80f3f57cd21c" name="Default" comment="add Day3_Multiple_Linear_Regression.py" />
+    <list default="true" id="41cb00c9-13f7-4c5d-9a73-80f3f57cd21c" name="Default" comment="add Day3_Multiple_Linear_Regression.py">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,20 +13,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="mnist.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MLPractice/Deep Learning Based on Python/Deep Learning Based on Python Code/dataset/mnist.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="23" column="16" lean-forward="false" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-              <folding>
-                <element signature="e#118#132#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="train_neuralnet.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MLPractice/Deep Learning Based on Python/Deep Learning Based on Python Code/ch04/train_neuralnet.py">
+      <file leaf-file-name="CNN.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Algorithm/CNN/CNN.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -101,8 +91,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -124,30 +114,7 @@
               <item name="MachineLearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
               <item name="MLPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="Deep Learning Based on Python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MachineLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="MLPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="Deep Learning Based on Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Deep Learning Based on Python Code" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MachineLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="MLPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="Deep Learning Based on Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Deep Learning Based on Python Code" type="462c0819:PsiDirectoryNode" />
-              <item name="ch04" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MachineLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="MLPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="Deep Learning Based on Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Deep Learning Based on Python Code" type="462c0819:PsiDirectoryNode" />
-              <item name="dataset" type="462c0819:PsiDirectoryNode" />
+              <item name="Deep Learning Theory and Implementation Based on Python" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -353,9 +320,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20769231" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21282052" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49243465" sideWeight="0.51282054" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -392,13 +358,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MLPractice/100-Days-Of-ML-Code/Day2_Simple_Linear_Regression/Day2_Simple_Linear_Regression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Program Files (x86)/Anaconda/Lib/site-packages/sklearn/linear_model/base.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7633">
@@ -407,39 +366,39 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MLPractice/100-Days-Of-ML-Code/Day2_Simple_Linear_Regression/studentscores.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
       <provider selected="true" editor-type-id="csv-text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithm/KNN/kdtreecreate.py" />
     <entry file="file://$PROJECT_DIR$/Algorithm/KNN/kdtree.py" />
-    <entry file="file://$PROJECT_DIR$/Algorithm/perceptron/raw form/rawform.py">
+    <entry file="file://$PROJECT_DIR$/Algorithm/Perceptron/raw form/rawform.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="17" column="14" lean-forward="false" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/perceptron/dual form/dualform.py">
+    <entry file="file://$PROJECT_DIR$/Algorithm/Perceptron/dual form/dualform.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="18" column="32" lean-forward="false" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/perceptron/raw form/rawform.py">
+    <entry file="file://$PROJECT_DIR$/Algorithm/Perceptron/raw form/rawform.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="14" lean-forward="false" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/perceptron/dual form/dualform.py">
+    <entry file="file://$PROJECT_DIR$/Algorithm/Perceptron/dual form/dualform.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
@@ -491,19 +450,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/perceptron/感知机算法收敛性.png">
+    <entry file="file://$PROJECT_DIR$/Algorithm/Perceptron/感知机算法收敛性.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/perceptron/raw form/rawform.py">
+    <entry file="file://$PROJECT_DIR$/Algorithm/Perceptron/raw form/rawform.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="17" column="14" lean-forward="false" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/perceptron/dual form/dualform.py">
+    <entry file="file://$PROJECT_DIR$/Algorithm/Perceptron/dual form/dualform.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="32" lean-forward="false" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
@@ -555,13 +514,13 @@
           <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
         </state>
       </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
       <provider selected="true" editor-type-id="csv-text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
-      </provider>
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MLPractice/100-Days-Of-ML-Code/Day1_DataPreProcessing/Day1_DataPreProcessing.jpg">
@@ -582,13 +541,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MLPractice/100-Days-Of-ML-Code/Day3_Multiple_Linear_Regression/50_Startups.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
       <provider selected="true" editor-type-id="csv-text-editor">
         <state relative-caret-position="-204">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
-      </provider>
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MLPractice/100-Days-Of-ML-Code/Day3_Multiple_Linear_Regression/Day3_Multiple_Linear_Regression_chinese.png">
@@ -604,13 +563,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MLPractice/100-Days-Of-ML-Code/Day4_5_6_8_Logistic_Regression/Social_Network_Ads.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
       <provider selected="true" editor-type-id="csv-text-editor">
         <state relative-caret-position="-102">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
-      </provider>
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MLPractice/100-Days-Of-ML-Code/Day4_5_6_8_Logistic_Regression/Day4_5_6_Logistic_Regression.py">
@@ -635,23 +594,23 @@
     <entry file="file://$PROJECT_DIR$/MLPractice/100-Days-Of-ML-Code/Day9_10_12_13_14_Support_Vector_Machines/Social_Network_Ads.csv" />
     <entry file="file://$PROJECT_DIR$/MLPractice/100-Days-Of-ML-Code/Day9_10_12_13_14_Support_Vector_Machines/Day9_10_12_13_14_Support_Vector_Machines.py" />
     <entry file="file://$PROJECT_DIR$/MLPractice/100-Days-Of-ML-Code/Day23_25_Decision_Trees/Social_Network_Ads.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
       <provider selected="true" editor-type-id="csv-text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
-      </provider>
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MLPractice/100-Days-Of-ML-Code/Day33_34_Random_Forests/Social_Network_Ads.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
       <provider selected="true" editor-type-id="csv-text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
-      </provider>
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MLPractice/深度学习入门：基于Python的理论与实现/【源代码】深度学习入门：基于Python的理论与实现/ch01/hungry.py" />
@@ -677,25 +636,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MLPractice/Deep Learning Based on Python/Deep Learning Based on Python Code/dataset/mnist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="23" column="16" lean-forward="false" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-          <folding>
-            <element signature="e#118#132#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MLPractice/Deep Learning Based on Python/Deep Learning Based on Python Code/ch04/two_layer_net.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MLPractice/Deep Learning Based on Python/Deep Learning Based on Python Code/ch04/train_neuralnet.py">
+    <entry file="file://$PROJECT_DIR$/MLPractice/Deep Learning Based on Python/Deep Learning Based on Python Code/dataset/mnist.py" />
+    <entry file="file://$PROJECT_DIR$/MLPractice/Deep Learning Based on Python/Deep Learning Based on Python Code/ch04/two_layer_net.py" />
+    <entry file="file://$PROJECT_DIR$/MLPractice/Deep Learning Based on Python/Deep Learning Based on Python Code/ch04/train_neuralnet.py" />
+    <entry file="file://$PROJECT_DIR$/Algorithm/CNN/CNN.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
